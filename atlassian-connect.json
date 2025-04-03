@@ -2,6 +2,12 @@
   "key": "com.example.my-n8n-webhook-app",
   "name": "My n8n Webhook App",
   "baseUrl": "https://gdevinc.app.n8n.cloud/webhook-test",
+  "authentication": {
+    "type": "none"
+  },
+  "scopes": [
+    "READ"
+  ],
   "modules": {
     "webhooks": [
       {
