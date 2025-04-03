@@ -1,7 +1,7 @@
 {
   "key": "com.example.my-n8n-webhook-app",
   "name": "My n8n Webhook App",
-  "baseUrl": "https://gdevinc.app.n8n.cloud/webhook-test",
+  "baseUrl": "https://gdevinc.app.n8n.cloud/webhook",
   "authentication": {
     "type": "none"
   },
@@ -12,11 +12,11 @@
     "webhooks": [
       {
         "event": "page_created",
-        "url": "https://gdevinc.app.n8n.cloud/webhook-test/page_created"
+        "url": "https://gdevinc.app.n8n.cloud/webhook/page_created"
       },
       {
         "event": "page_updated",
-        "url": "https://gdevinc.app.n8n.cloud/webhook-test/page-updated"
+        "url": "https://gdevinc.app.n8n.cloud/webhook/page-updated"
       }
     ]
   }
