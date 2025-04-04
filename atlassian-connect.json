@@ -1,5 +1,5 @@
 {
-  "key": "com.example.my-n8n-webhook-app",
+  "key": "com.example.my-n8n-webhook-prod-app",
   "name": "My n8n Webhook App",
   "baseUrl": "https://gdevinc.app.n8n.cloud/webhook",
   "authentication": {
