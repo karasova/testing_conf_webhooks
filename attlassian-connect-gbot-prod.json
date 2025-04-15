@@ -12,11 +12,11 @@
     "webhooks": [
       {
         "event": "page_created",
-        "url": "https://gdevinc.app.n8n.cloud/webhook/prod-page-created"
+        "url": "https://gdevinc.app.n8n.cloud/webhook/gbot-page-created"
       },
       {
         "event": "page_updated",
-        "url": "https://gdevinc.app.n8n.cloud/webhook/prod-page-updated"
+        "url": "https://gdevinc.app.n8n.cloud/webhook/gbot-page-updated"
       }
     ]
   }
