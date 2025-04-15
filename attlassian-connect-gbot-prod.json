@@ -1,7 +1,7 @@
 {
   "key": "gbot.prod.app",
   "name": "GBOT prod app",
-  "baseUrl": "https://gdevinc.app.n8n.cloud/webhook-test",
+  "baseUrl": "https://gdevinc.app.n8n.cloud/webhook",
   "authentication": {
     "type": "none"
   },
@@ -21,3 +21,4 @@
     ]
   }
 }
+
